@@ -4,6 +4,7 @@
   "description": "WWW",
   "scripts": {
     "test": "jest",
+    "test:watch": "jest --watchAll",
     "dev": "next",
     "build": "next build",
     "start": "next start -p $PORT",
